@@ -144,16 +144,3 @@ This project is developed as part of a **Search Engine course assignment** and e
 * Information retrieval fundamentals
 * Fair experimental comparison
 * Clean, reproducible data pipelines
-
-```
-
----
-
-If you want, I can next:
-- Tighten this to **<1 page** if your professor prefers brevity
-- Add a **pipeline diagram (ASCII or figure-ready)**
-- Rewrite it once the project reaches “final submission” polish
-- Align it explicitly with **grading rubric language**
-
-Just tell me.
-```
